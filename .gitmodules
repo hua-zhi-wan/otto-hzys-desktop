@@ -1,0 +1,3 @@
+[submodule "otto-hzys"]
+	path = otto-hzys
+	url = git@github.com:hua-zhi-wan/otto-hzys.git
